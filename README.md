@@ -1,9 +1,4 @@
-#### 👋 Hi, I'm Flavio Alexandre
-Olá sou Flavio Alexandre
+# 👋 Hi, I'm Flavio Alexandre (Olá sou Flavio Alexandre)
 
-#### 🌱 Currently studying React and JavaScript
-Atualmente estudo React e JavaScript
- 
-#### :technologist: I try to never stop learning and developing new skills.]
-Procuro nunca parar de aprender e desenvolver novas habilidades
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hekxagonal&layout=compact&theme=github_dark)](https://github.com/Hekxagonal/github-readme-stats)
+![Hekxagonal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hekxagonal&count_private=true&theme=github_dark)
