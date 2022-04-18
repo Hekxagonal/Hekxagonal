@@ -1,0 +1,28 @@
+{
+  "feed": [
+    {
+      "type": "team_member_add",
+      "author": "someone",
+      "name": "Caio",
+      "content": "back end developer/ Project Name"
+    },
+    {
+      "type": "team_end_success",
+      "author": "hekxagonal",
+      "name": "Flavio Alexandre",
+      "content": "back end/ telegram_bot"
+    },
+    {
+      "type": "friend_level_up",
+      "author": "user_1072",
+      "name": "Gabriela",
+      "content": ""
+    },
+    {
+      "type": "team_created",
+      "author": "saraaaaah",
+      "name": "Sarah",
+      "content": "front end/ Spotify Clone"
+    }
+  ]
+}
