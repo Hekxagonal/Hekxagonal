@@ -1,28 +1,130 @@
-{
-  "feed": [
+[
     {
-      "type": "team_member_add",
-      "author": "someone",
-      "name": "Caio",
-      "content": "back end developer/ Project Name"
+        "id": 1,
+        "title": "vigilant-waffle",
+        "category": "front end",
+        "createdAt": "2022-04-21T14:42:06.841Z",
+        "github": "Hekxagonal/vigilant-waffle",
+        "level": "trainee",
+        "short_description": "Um site simples baseado em HMTL e CSS com o objetivo de ser um projeto colaborativo para ajudar iniciantes",
+        "team_max": 5,
+        "tools": [
+            "HTML&CSS",
+            "JavaScript"
+        ],
+        "tags": [
+            {
+                "title": "iniciante",
+                "color": "#0ede07",
+                "description": "Projeto com foco em iniciantes"
+            },
+            {
+                "title": "foco no código",
+                "color": "#9607de",
+                "description": "Projeto com foco em conhecimento técnico"
+            },
+            {
+                "title": "bom para começar",
+                "color": "#07a644",
+                "description": "Projeto bom para aqueles que não sabem por onde começar"
+            }
+        ]
     },
     {
-      "type": "team_end_success",
-      "author": "hekxagonal",
-      "name": "Flavio Alexandre",
-      "content": "back end/ telegram_bot"
+        "id": 2,
+        "title": "codeSplit_lite",
+        "category": "front end",
+        "createdAt": "2022-04-21T15:03:36.063Z",
+        "github": "Hekxagonal/codeSplit_lite",
+        "level": "junior",
+        "short_description": "Arquivo de Projetos colaborativos com foco no Aprendizado",
+        "team_max": 10,
+        "tools": [
+            "JavaScript",
+            "ReactJS",
+            "NodeJS"
+        ],
+        "tags": [
+            {
+                "title": "foco no código",
+                "color": "#9607de",
+                "description": "Projeto com foco em conhecimento técnico"
+            },
+            {
+                "title": "API",
+                "color": "#1c375c",
+                "description": " "
+            }
+        ]
     },
     {
-      "type": "friend_level_up",
-      "author": "user_1072",
-      "name": "Gabriela",
-      "content": ""
+        "id": 3,
+        "title": "Spotify_clone",
+        "category": "front end",
+        "createdAt": "2022-04-21T19:37:54.983Z",
+        "github": null,
+        "level": "junior",
+        "short_description": "Front end do Spotify! ",
+        "team_max": 2,
+        "tools": [
+            "HTML&CSS",
+            "JavaScript",
+            "ReactJS"
+        ],
+        "tags": [
+            {
+                "title": "iniciante",
+                "color": "#0ede07",
+                "description": "Projeto com foco em iniciantes"
+            },
+            {
+                "title": "foco no código",
+                "color": "#9607de",
+                "description": "Projeto com foco em conhecimento técnico"
+            },
+            {
+                "title": "bom para começar",
+                "color": "#07a644",
+                "description": "Projeto bom para aqueles que não sabem por onde começar"
+            }
+        ]
     },
     {
-      "type": "team_created",
-      "author": "saraaaaah",
-      "name": "Sarah",
-      "content": "front end/ Spotify Clone"
+        "id": 4,
+        "title": "questions_discord_bot",
+        "category": "back end",
+        "createdAt": "2022-04-21T19:40:08.651Z",
+        "github": null,
+        "level": "junior",
+        "short_description": "um bot que responde perguntas ",
+        "team_max": 3,
+        "tools": [
+            "JavaScript",
+            "NodeJS",
+            "Python",
+            "Java"
+        ],
+        "tags": [
+            {
+                "title": "iniciante",
+                "color": "#0ede07",
+                "description": "Projeto com foco em iniciantes"
+            },
+            {
+                "title": "foco no código",
+                "color": "#9607de",
+                "description": "Projeto com foco em conhecimento técnico"
+            },
+            {
+                "title": "bom para começar",
+                "color": "#07a644",
+                "description": "Projeto bom para aqueles que não sabem por onde começar"
+            },
+            {
+                "title": "chat_bot",
+                "color": "#a35105",
+                "description": "Criação de um bot de chat"
+            }
+        ]
     }
-  ]
-}
+]
