@@ -2,13 +2,12 @@
  
  ![bom para começar](https://img.shields.io/badge/bom_para_começar-07a644?style=for-the-badge&logoColor=white)
  
- <pre>
- {
-  "title": "bom para começar",
-  "color": "#07a644",
-  "description": "Usa conceitos simples e basicos, otimo para aqueles que estão começando a usar o codeSplit"
- }
- </pre>
+             {
+                "title": "bom para começar",
+                "color": "#07a644",
+                "description": "Usa conceitos simples e basicos,
+                                otimo para aqueles que estão começando a usar o codeSplit"
+            }
 
 ![foco no codigo](https://img.shields.io/badge/foco_no_codigo-9607de?style=for-the-badge&logoColor=white)
 
